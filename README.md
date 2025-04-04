@@ -15,3 +15,6 @@ To do so we:
 - sample_values for the marker size
 - otu_ids for the marker color
 - otu_labels for the text values
+
+In addition to the provided starter file I also referenced:
+- https://plotly.com/javascript/figure-labels/
